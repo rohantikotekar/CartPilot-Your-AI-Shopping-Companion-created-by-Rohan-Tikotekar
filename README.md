@@ -253,8 +253,7 @@ Expected: Agent identifies it and recommends similar products
 ## 💡 Key Design Decisions
 
 ### Understanding Requirements
-- **Problem-First Approach**: Identified the core need for an AI-powered solution that could handle multiple use cases without complex infrastructure
-- **User-Centric Design**: Prioritized simplicity and quick deployment over feature bloat
+- **User-Centric Design**: Prioritized simplicity and quick deployment over endless features
 - **Iteration Over Perfection**: Chose an architecture that allows rapid prototyping and user feedback
 
 ### Technology Stack Rationale
