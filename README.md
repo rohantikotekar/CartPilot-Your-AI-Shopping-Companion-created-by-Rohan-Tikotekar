@@ -10,6 +10,18 @@ A production-ready AI-powered shopping assistant that handles general conversati
 ✅ **Unified Agent** - Single AI handles all 3 use cases seamlessly  
 ✅ **20 Product Catalog** - Pre-loaded with sports and fitness items  
 
+## 🚀 Live Demo
+
+**Deployed App**: [https://cartpilot-14lzs6ke9-rohans-projects-a97c7c7b.vercel.app/](https://cartpilot-14lzs6ke9-rohans-projects-a97c7c7b.vercel.app/)
+
+## 📹 Video Demonstrations
+
+| Demo Type | Link |
+|-----------|------|
+| 💬 General Conversation | [Watch Demo](https://drive.google.com/file/d/1YS5uGBE8MF7G5oGHlrqugFLWEjsr0wqe/view?usp=drive_link) |
+| 🏋️ Gym Accessories Recommendation | [Watch Demo](https://drive.google.com/file/d/1ACkzCsV3PEjY3CrRh8sSHjKOVUn93AOG/view?usp=drive_link) |
+| 📸 Image-Based Product Search | [Watch Demo](https://drive.google.com/file/d/18nfVQiIjuFoLUNUDkOX2Z4xfOrSimJS5/view?usp=drive_link) |
+
 ## 🏗️ Architecture
 
 ### Tech Stack
@@ -151,7 +163,7 @@ Open **http://localhost:3000** in your browser.
 Try these:
 - **General chat:** "What can you do?"
 - **Text search:** "Recommend a sports t-shirt"
-- **Image search:** Upload any image of sports equipment
+- **Image search:** Upload any image of a product that you want to buy
 
 ## 📡 API Documentation
 
@@ -329,4 +341,4 @@ For issues or questions:
 
 ---
 
-**Built with ❤️ using React, Node.js, and OpenAI GPT-4**
+**Built with ❤️ by Rohan Tikotekar, a Passionate AI and Software Engineer**
