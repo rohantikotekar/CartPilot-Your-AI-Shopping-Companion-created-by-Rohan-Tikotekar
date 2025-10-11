@@ -19,7 +19,7 @@ A production-ready AI-powered shopping assistant that handles general conversati
 | Demo Type | Link |
 |-----------|------|
 | 💬 General Conversation | [Watch Demo](https://drive.google.com/file/d/1YS5uGBE8MF7G5oGHlrqugFLWEjsr0wqe/view?usp=drive_link) |
-| 🏋️ Gym Accessories Recommendation | [Watch Demo](https://drive.google.com/file/d/1ACkzCsV3PEjY3CrRh8sSHjKOVUn93AOG/view?usp=drive_link) |
+| 🏋️ Text-Based Product Recommendation | [Watch Demo](https://drive.google.com/file/d/1ACkzCsV3PEjY3CrRh8sSHjKOVUn93AOG/view?usp=drive_link) |
 | 📸 Image-Based Product Search | [Watch Demo](https://drive.google.com/file/d/18nfVQiIjuFoLUNUDkOX2Z4xfOrSimJS5/view?usp=drive_link) |
 
 ## 🏗️ Architecture
