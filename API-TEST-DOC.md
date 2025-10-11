@@ -1,4 +1,4 @@
-# Ecommerce Agent API - Test Documentation
+# CartPilot - Test Documentation
 
 ## Base URL
 ```
