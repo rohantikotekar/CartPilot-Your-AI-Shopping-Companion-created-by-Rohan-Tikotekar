@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Performance Sports T-Shirt",
+    "category": "Apparel",
+    "price": 29.99,
+    "description": "Moisture-wicking polyester blend, breathable fabric, perfect for running and gym workouts",
+    "tags": ["sports", "tshirt", "athletic", "running", "gym", "workout"],
+    "image": "frontend/src/data/Performance T-shirt.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 79.99,
+    "description": "Premium sound quality, 30-hour battery life, noise cancellation, comfortable over-ear design",
+    "tags": ["headphones", "audio", "wireless", "bluetooth", "music"],
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400"
+  },
+  {
+    "id": 3,
+    "name": "Yoga Mat - Extra Thick",
+    "category": "Fitness",
+    "price": 34.99,
+    "description": "6mm thick, non-slip surface, eco-friendly TPE material, includes carrying strap",
+    "tags": ["yoga", "fitness", "exercise", "mat", "workout"],
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=400"
+  },
+{
+  "id": 4,
+  "name": "Smart Water Bottle",
+  "category": "Accessories",
+  "price": 39.99,
+  "description": "LED hydration reminder, tracks water intake, 24oz capacity, BPA-free",
+  "tags": ["water", "bottle", "hydration", "smart", "fitness"],
+  "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400&auto=format&fit=crop&q=80"
+},
+  {
+    "id": 5,
+    "name": "Running Shoes - Trail Edition",
+    "category": "Footwear",
+    "price": 119.99,
+    "description": "Durable trail grip, waterproof membrane, cushioned midsole, ankle support",
+    "tags": ["shoes", "running", "trail", "outdoor", "athletic"],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker Watch",
+    "category": "Electronics",
+    "price": 149.99,
+    "description": "Heart rate monitor, GPS tracking, sleep analysis, 7-day battery, waterproof",
+    "tags": ["fitness", "tracker", "watch", "health", "smart"],
+    "image": "https://images.unsplash.com/photo-1557438159-51eec7a6c9e8?w=400"
+  },
+  {
+    "id": 7,
+    "name": "Protein Shaker Bottle",
+    "category": "Accessories",
+    "price": 14.99,
+    "description": "28oz capacity, leak-proof lid, built-in mixing ball, dishwasher safe",
+    "tags": ["protein", "shaker", "bottle", "gym", "nutrition"],
+    "image": "https://images.unsplash.com/photo-1591952829533-f0674fe0da5b?w=400"
+  },
+  {
+    "id": 8,
+    "name": "Compression Shorts",
+    "category": "Apparel",
+    "price": 44.99,
+    "description": "Muscle support, moisture-wicking, 4-way stretch, flatlock seams",
+    "tags": ["shorts", "compression", "athletic", "running", "gym"],
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=400"
+  },
+  {
+    "id": 9,
+    "name": "Resistance Bands Set",
+    "category": "Fitness",
+    "price": 24.99,
+    "description": "5 resistance levels, includes door anchor, portable workout solution",
+    "tags": ["resistance", "bands", "exercise", "strength", "portable"],
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=400"
+  },
+  {
+    "id": 10,
+    "name": "Gym Duffel Bag",
+    "category": "Accessories",
+    "price": 49.99,
+    "description": "Water-resistant, shoe compartment, multiple pockets, padded shoulder strap",
+    "tags": ["bag", "duffel", "gym", "travel", "storage"],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400"
+  },
+  {
+    "id": 11,
+    "name": "Cooling Towel",
+    "category": "Accessories",
+    "price": 12.99,
+    "description": "Instant cooling technology, soft microfiber, reusable, includes carry pouch",
+    "tags": ["towel", "cooling", "workout", "sports", "recovery"],
+    "image": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400"
+  },
+  {
+    "id": 12,
+    "name": "Jump Rope - Speed Training",
+    "category": "Fitness",
+    "price": 19.99,
+    "description": "Adjustable length, ball-bearing handles, lightweight cable, carrying case",
+    "tags": ["jump", "rope", "cardio", "training", "fitness"],
+    "image": "https://images.unsplash.com/photo-1517836477839-7072aaa8b121?w=400"
+  },
+  {
+    "id": 13,
+    "name": "Training Gloves",
+    "category": "Accessories",
+    "price": 27.99,
+    "description": "Padded palm, wrist support, breathable fabric, anti-slip grip",
+    "tags": ["gloves", "training", "gym", "weightlifting", "protection"],
+    "image": "https://images.unsplash.com/photo-1588117305388-c2631a279f82?w=400"
+  },
+  {
+    "id": 14,
+    "name": "Foam Roller",
+    "category": "Fitness",
+    "price": 29.99,
+    "description": "High-density foam, muscle recovery, trigger point therapy, 18-inch length",
+    "tags": ["foam", "roller", "recovery", "massage", "therapy"],
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07e?w=400"
+  },
+  {
+    "id": 15,
+    "name": "Sport Sunglasses",
+    "category": "Accessories",
+    "price": 54.99,
+    "description": "UV400 protection, lightweight frame, anti-slip nose pads, polarized lenses",
+    "tags": ["sunglasses", "sport", "outdoor", "running", "cycling"],
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=400"
+  },
+  {
+    "id": 16,
+    "name": "Adjustable Dumbbells",
+    "category": "Fitness",
+    "price": 199.99,
+    "description": "5-52.5 lbs per hand, space-saving design, quick weight adjustment",
+    "tags": ["dumbbells", "weights", "strength", "gym", "home"],
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=400"
+  },
+  {
+    "id": 17,
+    "name": "Athletic Socks - 6 Pack",
+    "category": "Apparel",
+    "price": 22.99,
+    "description": "Arch support, moisture-wicking, cushioned sole, reinforced heel and toe",
+    "tags": ["socks", "athletic", "running", "comfort", "sports"],
+    "image": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=400"
+  },
+  {
+    "id": 18,
+    "name": "Exercise Ball",
+    "category": "Fitness",
+    "price": 26.99,
+    "description": "65cm diameter, anti-burst, includes pump, stability and core training",
+    "tags": ["ball", "exercise", "stability", "core", "yoga"],
+    "image": "https://images.unsplash.com/photo-1598971639058-fab3c3109a00?w=400"
+  },
+  {
+    "id": 19,
+    "name": "Sweatband Set",
+    "category": "Accessories",
+    "price": 9.99,
+    "description": "Headband and wristbands, cotton/elastic blend, moisture-absorbing",
+    "tags": ["sweatband", "headband", "wristband", "sports", "gym"],
+    "image": "https://images.unsplash.com/photo-1611434267313-52e2c95024d3?w=400"
+  },
+  {
+    "id": 20,
+    "name": "Massage Gun",
+    "category": "Electronics",
+    "price": 129.99,
+    "description": "5 speed settings, 6 massage heads, quiet motor, 4-hour battery",
+    "tags": ["massage", "gun", "recovery", "therapy", "muscle"],
+    "image": "https://images.unsplash.com/photo-1612528443702-f6741f70a049?w=400"
+  }
+]
