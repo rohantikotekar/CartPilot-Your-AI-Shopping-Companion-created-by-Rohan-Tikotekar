@@ -288,34 +288,33 @@ Expected: Agent identifies it and recommends similar products
 - ✅ Use common formats (JPG, PNG)
 - ✅ Check browser console for errors
 
-## 📊 Project Structure
-
-```
-commerce-agent/
-├── backend/
-│   ├── server.js          # Express API server
-│   ├── products.json      # Product catalog (20 items)
-│   ├── package.json       # Backend dependencies
-│   └── .env              # Environment variables
-├── frontend/
-│   ├── src/
-│   │   ├── App.jsx       # Main React component
-│   │   ├── main.jsx      # React entry point
-│   │   └── index.css     # Global styles
-│   ├── index.html        # HTML template
-│   ├── package.json      # Frontend dependencies
-│   └── vite.config.js    # Vite configuration
-├── vercel.json           # Deployment config
-└── README.md             # This file
-```
 
 ## 💡 Key Design Decisions
 
-1. **Single Agent Architecture**: One GPT-4o model handles all use cases using system prompts
-2. **In-Memory Catalog**: Simple JSON file, no database needed
-3. **Inline Styles**: No CSS frameworks, keeps bundle small
-4. **Base64 Image Encoding**: Simplifies image handling
-5. **Vercel Deployment**: Zero-config, free tier available
+### Understanding Requirements
+- **Problem-First Approach**: Identified the core need for an AI-powered solution that could handle multiple use cases without complex infrastructure
+- **User-Centric Design**: Prioritized simplicity and quick deployment over feature bloat
+- **Iteration Over Perfection**: Chose an architecture that allows rapid prototyping and user feedback
+
+### Technology Stack Rationale
+- **Single Agent Architecture**: One GPT-4o model handles all use cases using system prompts
+  - *Why*: Reduces complexity, easier maintenance, and leverages GPT-4o's versatility
+  - *Trade-off*: Less specialization per task, but gains significant operational simplicity
+- **Inline Styles**: No CSS frameworks, keeps bundle small
+  - *Why*: Faster load times, no external dependencies, full control over styling
+  - *Trade-off*: More verbose code, but eliminates framework learning curve and bloat
+
+### ML Model Selection
+- **GPT-4o**: Chosen for its balance of performance, cost, and capabilities
+  - *Multimodal support*: Handles text and images natively (Base64 encoding)
+  - *Prompt flexibility*: Single model adapts to multiple use cases via system prompts
+  - *Reliability*: Production-ready with predictable latency and uptime
+
+### Data Storage Decision
+- **In-Memory Catalog**: Simple JSON file, no database needed
+  - *Why*: Eliminates database setup, hosting costs, and connection overhead
+  - *Scalability consideration*: Perfect for catalogs up to ~1000 items; plan migration to DB when needed
+  - *Maintainability*: Easy to version control, backup, and debug
 
 ## 🎨 Customization
 
