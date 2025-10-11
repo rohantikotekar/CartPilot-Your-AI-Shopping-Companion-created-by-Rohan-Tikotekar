@@ -70,7 +70,7 @@ A production-ready AI-powered shopping assistant that handles general conversati
 │   └───────────────────────────────┘ │
 │                                     │
 │   ┌───────────────────────────────┐ │
-│   │  AI Agent (OpenAI GPT-4o)    │ │
+│   │  AI Agent (OpenAI GPT-4o)     │ │
 │   │  • Intent detection           │ │
 │   │  • Product catalog search     │ │
 │   │  • Image recognition          │ │
