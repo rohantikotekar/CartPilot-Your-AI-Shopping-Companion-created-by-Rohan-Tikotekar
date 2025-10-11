@@ -165,45 +165,6 @@ Try these:
 - **Text search:** "Recommend a sports t-shirt"
 - **Image search:** Upload any image of a product that you want to buy
 
-## 📡 API Documentation
-
-### POST /api/chat
-
-**Endpoint:** `http://localhost:3001/api/chat`
-
-**Request Body:**
-```json
-{
-  "message": "Recommend a sports t-shirt",
-  "image": "data:image/jpeg;base64,..." // optional
-}
-```
-
-**Response:**
-```json
-{
-  "reply": "I recommend the Performance Sports T-Shirt...",
-  "timestamp": "2025-10-10T12:00:00.000Z"
-}
-```
-
-**Status Codes:**
-- `200` - Success
-- `400` - Bad request (missing message/image)
-- `500` - Server error
-
-### GET /api/health
-
-**Endpoint:** `http://localhost:3001/api/health`
-
-**Response:**
-```json
-{
-  "status": "ok",
-  "products": 20,
-  "timestamp": "2025-10-10T12:00:00.000Z"
-}
-```
 
 ## 🌐 Deployment (Vercel)
 
