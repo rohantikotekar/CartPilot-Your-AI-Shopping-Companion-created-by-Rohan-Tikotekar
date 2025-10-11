@@ -9,6 +9,26 @@ http://localhost:3000
 
 ## Endpoints
 
+### GET /api/health
+
+**Description:** Check if the API server is running and get basic status information.
+
+**Headers:** None required
+
+**Request Body:** None
+
+**Response:**
+```json
+{
+  "status": "ok",
+  "products": 20,
+  "timestamp": "2025-10-11T05:14:20.555Z"
+}
+```
+
+**Status Code:** `200 OK`
+
+---
 ### POST /api/chat
 
 **Description:** Send a message or image to the AI shopping assistant for product recommendations.
