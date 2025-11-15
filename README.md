@@ -8,7 +8,7 @@ A production-ready AI-powered shopping assistant that handles general conversati
 ✅ **Text-Based Product Recommendations** - Get personalized product suggestions  
 ✅ **Image-Based Product Search** - Upload images to find similar products  
 ✅ **Unified Agent** - Single AI handles all 3 use cases seamlessly  
-✅ **20 Product Catalog** - Pre-loaded with sports and fitness items  
+✅ **Product Catalog** - Pre-loaded with sports and fitness items  
 
 ## 🚀 Live Demo
 
