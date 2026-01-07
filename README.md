@@ -75,7 +75,7 @@ A production-ready AI-powered shopping assistant that handles general conversati
 │                                     │
 │   ┌───────────────────────────────┐ │
 │   │  Product Catalog (JSON)       │ │
-│   │  • 20 products                │ │
+│   │  • 1K products                │ │
 │   │  • Categories, prices, tags   │ │
 │   └───────────────────────────────┘ │
 └─────────────────────────────────────┘
