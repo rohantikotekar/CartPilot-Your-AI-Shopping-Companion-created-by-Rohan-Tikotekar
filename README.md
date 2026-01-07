@@ -10,10 +10,6 @@ A production-ready AI-powered shopping assistant that handles general conversati
 ✅ **Unified Agent** - Single AI handles all 3 use cases seamlessly  
 ✅ **Product Catalog** - Pre-loaded with sports and fitness items  
 
-## 🚀 Live Demo
-
-**Deployed App**: [https://cartpilot-14lzs6ke9-rohans-projects-a97c7c7b.vercel.app/](https://cartpilot-14lzs6ke9-rohans-projects-a97c7c7b.vercel.app/)
-
 ## 📹 Video Demonstrations
 
 | Demo Type | Link |
